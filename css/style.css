@@ -25,9 +25,19 @@ nav{
 .line{
     height: 0;
     border: 2px solid white;
-    width: 40%;
+    width: 200px;
+}
+
+.line-black{
+    height: 0;
+    border: 2px solid black;
+    width: 200px;
 }
 
 .avatar{
     width: 50%;
+}
+
+img{
+    width: 100%;
 }
