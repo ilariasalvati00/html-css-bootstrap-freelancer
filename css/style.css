@@ -1,0 +1,33 @@
+nav{
+    background-color: #2c3e50;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-toggler{
+    filter: invert(1);
+}
+
+.green{
+    background-color: #1abc9c;
+}
+
+.white{
+    color:white;
+}
+
+.line{
+    height: 0;
+    border: 2px solid white;
+    width: 40%;
+}
+
+.avatar{
+    width: 50%;
+}
